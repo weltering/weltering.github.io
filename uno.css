@@ -2,6 +2,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   width: 85%;
+  height: 85%;
 }
 
 header {
@@ -32,10 +33,10 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://assets.entrepreneur.com/article/1413519079_unsplash-1024x682.jpg');
+  background-image: url(/assets/rob-bye-362852-unsplash.jpg);
   background-size: stretch;
-background-repeat: no-repeat;
-background-position: center;
+  background-repeat: no-repeat;
+  background-position: center;
   color: #ffffff;
   height: 500px;
   text-shadow: 0.5px 0.5px 0.5px #000000;
