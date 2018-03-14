@@ -33,7 +33,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url(/assets/rob-bye-362852-unsplash.jpg);
+  background-image: url("/assets/rob-bye-362852-unsplash.jpg");
   background-size: stretch;
   background-repeat: no-repeat;
   background-position: center;
