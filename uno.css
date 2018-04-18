@@ -1,8 +1,12 @@
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  width: 85%;
-  height: 85%;
+  width: 100%;
+  height: 100%;
+  background-image: url("/assets/rob-bye-362852-unsplash.jpg");
+  background-size: stretch;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 header {
@@ -37,8 +41,9 @@ header p {
   background-size: stretch;
   background-repeat: no-repeat;
   background-position: center;
-  color: #ffffff;
+  color: #000;
   height: 100%;
+  width:100%
   text-shadow: 0.5px 0.5px 0.5px #000000;
 }
 
